@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{EE6A5101-A55D-4AD1-98FE-382523AD8FAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bottomnavigationclass/Resources/layout/fragment_notification.xml">
+    <Files>
+      <File FileName="bottomnavigationclass/MainActivity.cs" Line="136" Column="1" />
+      <File FileName="bottomnavigationclass/fragments/HomeFragment.cs" />
+      <File FileName="bottomnavigationclass/IInterface/IFragmentCall.cs" />
+      <File FileName="bottomnavigationclass/fragments/NotificationFragment.cs" />
+      <File FileName="bottomnavigationclass/Resources/layout/fragment_notification.xml" Line="10" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bottomnavigationclass" expanded="True">
+            <Node name="bottomnavigationclass" expanded="True">
+              <Node name="fragments" expanded="True" />
+              <Node name="IInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="fragment_notification.xml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="utils" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.bottomnavigationclass AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_2_API_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/olalekanayodeji/AYODEJIWEMABANK/bottomnavigationclass/bottomnavigationclass/fragments/HomeFragment.cs" relfile="bottomnavigationclass/fragments/HomeFragment.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
